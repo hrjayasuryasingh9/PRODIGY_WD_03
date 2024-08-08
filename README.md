@@ -33,5 +33,5 @@ For a live demo of the game, visit: [Tic-Tac-Toe Game](https://hrjayasuryasingh9
 
 ## **Author**
 - **Name**: Jayasurya Singh
-- **GitHub**: [your-username](https://github.com/hrjayasuryasingh9)
+- **GitHub**: [HR Jaya Surya Singh](https://github.com/hrjayasuryasingh9)
 
